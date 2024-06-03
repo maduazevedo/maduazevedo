@@ -1,8 +1,7 @@
 ## Sysout( "Olá! Sou Eduarda Azevedo." ); 👋🏻
 
 
-
-![snake gif](https://github.com/maduazevedo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/maduazevedo/README.md/blob/output/github-contribution-grid-snake.svg)
 
 ### Tecnologias que uso no meu dia  
 <div style= "display: inline_block"><br/>
