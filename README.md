@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/maduazevedo/maduazevedo/assets/150286997/0e523d84-da16-453a-9d99-04e60e092d70"/>
+<img width=100% bottom=50px src="https://github.com/maduazevedo/maduazevedo/assets/150286997/caa758bb-130f-4f18-8120-50718e2c1c5d"/>
 <br>
 <br> 
 
