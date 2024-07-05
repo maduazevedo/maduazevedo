@@ -1,5 +1,6 @@
-
+<span style="color: pink;">
 ## Sysout( "Olá! Sou Eduarda Azevedo." ); 👋🏻
+</span>
 
 🌸 Hey! Sou estudante de Análise e Desenvolvimento de Sistemas e Gestão de Tecnologia da Informação. Ultimamente, tenho me empenhado em desenvolver habilidades na área de gestão de projetos e análise de dados. Sou super apaixonada por tech e sempre de olho nas novidades. Aqui no meu GitHub, você vai encontrar projetos cheios de criatividade e dedicação. Vamos juntas revolucionar o mundo da tecnologia? 🌸✨👩‍💻
 
