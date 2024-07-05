@@ -19,3 +19,9 @@
 <img align = "center" alt = Power BI" src= "https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
 <img align= "center" alt= "Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
+
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/maduazevedo?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
+
+</div>
