@@ -1,19 +1,12 @@
 <img width=100% bottom=50px src="https://github.com/maduazevedo/maduazevedo/assets/150286997/354c40c1-3ec5-44e4-9383-2786738abe3f"/>
 <br>
 <br/> 
-<br>
-<br/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=30&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+my+name+is+Eduarda+Azevedo;I'm+19+years+old;I'm+a+Developer;Welcome!%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+my+name+is+Eduarda+Azevedo;I'm+19+years+old;I'm+a+Developer;Welcome!)](https://git.io/typing-svg)
 
 <br>
-<br>
 
-
-# **DEVELOPER** 
-
-## Sysout( "Olá! Sou Eduarda Azevedo." ); 👋🏻
 
 
 🌸 _Hey! Sou estudante de Análise e Desenvolvimento de Sistemas e Gestão de Tecnologia da Informação. Ultimamente, tenho me empenhado em desenvolver habilidades na área de gestão de projetos e análise de dados. Sou super apaixonada por tech e sempre de olho nas novidades. Aqui no meu GitHub, você vai encontrar projetos cheios de criatividade e dedicação. Vamos juntas revolucionar o mundo da tecnologia?_ 🌸✨👩‍💻
