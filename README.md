@@ -5,7 +5,7 @@
 <br/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=20&duration=6000&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eduarda+Azevedo;I'm+19+years+old;Welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=20&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eduarda+Azevedo;I'm+19+years+old;Welcome%3A)](https://git.io/typing-svg)
 
 <br>
 <br>
