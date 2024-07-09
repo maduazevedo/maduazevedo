@@ -1,9 +1,10 @@
 <img width=100% bottom=50px src="https://github.com/maduazevedo/maduazevedo/assets/150286997/2718ab88-93f3-436f-8f2d-eabbfb9ed6a2"/>
 <br>
-<br/> 
+<br>
+<br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=28&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+my+name+is+Eduarda+Azevedo;I'm+19+years+old;I'm+a+Developer;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=30&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+my+name+is+Eduarda+Azevedo;I'm+19+years+old;I'm+a+Developer;Welcome!)](https://git.io/typing-svg)
 
 <br>
 
