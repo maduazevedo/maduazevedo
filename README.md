@@ -20,8 +20,6 @@
   
   ##
 
-My 
-
 
 
 💜 _Hey! Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Gestão de Tecnologia da Informação**. Ultimamente, tenho me empenhado em desenvolver habilidades na área de gestão de projetos e análise de dados. Vamos juntas revolucionar o mundo da tecnologia?_ 💜✨👩‍💻
@@ -35,8 +33,8 @@ My
 <img align= "center" alt= "Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m/maduazevedo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maduazevedo/maduazevedo/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maduazevedo/maduazevedo/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center" >
+  
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/maduazevedo?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple) 
+
+</div>
