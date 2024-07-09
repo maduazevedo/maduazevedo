@@ -1,4 +1,5 @@
 <img width=100% bottom=50px src="https://github.com/maduazevedo/maduazevedo/assets/150286997/2718ab88-93f3-436f-8f2d-eabbfb9ed6a2"/>
+
 <br>
 <br>
 <br>
@@ -8,22 +9,11 @@
 
 <br>
 
-<div style="display: align-center"><br>
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
-
-
+##
 
 💜 _Hey! Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Gestão de Tecnologia da Informação**. Ultimamente, tenho me empenhado em desenvolver habilidades na área de gestão de projetos e análise de dados. Vamos juntas revolucionar o mundo da tecnologia?_ 💜✨👩‍💻
-
+<br>
+##
 
 ### My Skills 
 <div style= "display: inline_block"><br/>
@@ -33,8 +23,11 @@
 <img align= "center" alt= "Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
+##
+
 <div align="center" >
   
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/maduazevedo?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple) 
 
 </div>
+##
