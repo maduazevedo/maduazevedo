@@ -11,7 +11,7 @@
 
 #
 
-💜 Hey! Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Gestão de Tecnologia da Informação**. Ultimamente, tenho me empenhado em desenvolver habilidades na área de Desenvolvimento de Software. Vamos juntas revolucionar o mundo da tecnologia?💜✨👩‍💻
+💜 Hey! Sou estudante de **Gestão de Tecnologia da Informação**. Ultimamente, tenho me empenhado em desenvolver habilidades na área de desenvolvimento e dados. Vamos juntas revolucionar o mundo da tecnologia?💜✨👩‍💻
 <br>
 #
 
