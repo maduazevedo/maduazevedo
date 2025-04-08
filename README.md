@@ -1,8 +1,6 @@
 <img width=100% bottom=50px src="https://capsule-render.vercel.app/api?type=waving&height=120&color=836FFF&section=header&reversal=false"/>
 
 <br>
-<br>
-<br>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=30&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=1000&lines=%E2%8A%B9+Hi%2C+My+name+is+Eduarda+Azevedo.;I'm+20+years+old.;I'm+a+Developer.+%CB%99%E1%B5%95%CB%99+;%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9)](https://git.io/typing-svg)
