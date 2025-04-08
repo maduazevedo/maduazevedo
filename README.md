@@ -1,5 +1,8 @@
-<img width=100% bottom=50px src="https://capsule-render.vercel.app/api?type=waving&height=120&color=836FFF&section=header&reversal=false"/>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/7313ad53-881e-480d-900a-811fefd85b77"/>
 
+<br>
+<br>
+<br>
 <br>
 
 
