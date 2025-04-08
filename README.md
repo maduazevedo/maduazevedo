@@ -9,7 +9,7 @@
 
 #
 
-💜 Hey! Sou estudante de **Análise e Desenvolvimento de Sistemas**. Ultimamente, tenho me empenhado em desenvolver habilidades na área de desenvolvimento. Vamos juntas revolucionar o mundo da tecnologia?💜✨👩‍💻
+Sou estudante de **Análise e Desenvolvimento de Sistemas**. Ultimamente, tenho me empenhado em desenvolver habilidades na área de desenvolvimento. Vamos juntas revolucionar o mundo da tecnologia?💜✨👩‍💻
 <br>
 #
 
